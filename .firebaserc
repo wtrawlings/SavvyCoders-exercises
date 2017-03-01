@@ -1,6 +1,5 @@
 {
   "projects": {
-    "default": "warrenrawlings-portfolio",
-    "warrenrawlings-portfolio": "warrenrawlings-portfolio"
+    "default": "warrenrawlings-portfolio"
   }
 }
