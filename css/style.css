@@ -1,0 +1,24 @@
+h1 {
+    font-family: verdana;
+    text-align: center;
+  }
+p {
+    color: red;
+  }
+i {
+    font-size: 300%;
+  }
+body {
+  background-color: #ccc
+}
+img {
+  border-radius: 300px;
+  padding: 30px;
+
+}
+div {
+  padding: 30px;
+  margin: 30px;
+  width: 400px;
+  background-color: #eee;
+}
