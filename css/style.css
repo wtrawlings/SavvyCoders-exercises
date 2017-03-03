@@ -3,7 +3,7 @@ h1 {
     text-align: center;
   }
 p {
-    color: red;
+    color: black;
   }
 i {
     font-size: 300%;
@@ -21,4 +21,13 @@ div {
   margin: 30px;
   width: 400px;
   background-color: #eee;
+}
+#mail {
+  color:blue;
+}
+.alpha {
+  float: left;
+}
+.beta {
+  float: left;
 }
