@@ -33,4 +33,6 @@ div {
 }
 form {
   background-color: skyblue;
+  width: 360px;
+  padding:20px;
 }
