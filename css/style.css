@@ -31,3 +31,6 @@ div {
 .beta {
   float: left;
 }
+form {
+  background-color: skyblue;
+}
